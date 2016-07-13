@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AdditionalPackages</key>
+	<array/>
+	<key>ApplyUpdates</key>
+	<true/>
+	<key>SourcePath</key>
+	<string>/Applications/Install OS X Yosemite.app</string>
+	<key>TemplateFormat</key>
+	<string>1.0</string>
+	<key>VolumeName</key>
+	<string>Macintosh HD</string>
+	<key>OutputPath</key>
+  <string>/Volumes/VMware Shared Folders/MacDev/0All/temp/All-Apple-OSX-%OSVERSION%-%OSBUILD%.hfs.dmg</string>
+</dict>
+</plist>
